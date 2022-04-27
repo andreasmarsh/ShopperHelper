@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166760457649",
+    "project_id": "shopperhelper-8c4ea",
+    "storage_bucket": "shopperhelper-8c4ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166760457649:android:27908bad746feee6ad4990",
+        "android_client_info": {
+          "package_name": "edu.uga.cs.shopperhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166760457649-417gueetlf9kue4tlav69fm11j8mqnhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBVg1OfFQGSVlzse0ZjL8-dS5lyBi5dp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166760457649-417gueetlf9kue4tlav69fm11j8mqnhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

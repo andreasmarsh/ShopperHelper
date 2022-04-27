@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShopperHelper</string>
+    <string name="button0_text">Sign in ➡</string>
+    <string name="help_text">If you live with roommates, you may have to purchase items which are shared by everyone.
+    It would be useful to have a common place for storing/shopping needs for such shared items, and then
+    recording shopping expenses. This is the answer to all those wishes. Every roommate will
+    have their own personal log in. Once logged in each roommate will be able to add items to shopping
+    list and once purchased they will automatically move to the purchased list and add how much the item cost.
+    Once items are in the purchased list you can select settle cost and the app with calculate how much
+        every roommate has to pay. It\'s kinda like magic! </string>
+
+</resources>
